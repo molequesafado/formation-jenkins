@@ -32,7 +32,7 @@ public class PetClinicApplication {
 
     public static void main(String[] args) throws Exception {
 		//TODO C'est un test2
-        SpringApplication.run(PetClinicApplication.class, args);
+        SpringApplication.run(PetClinicApplication.class, args)
     }
 
 }
